@@ -87,7 +87,7 @@ This project is open-source under the **MIT License**.
 
 ---
 
-Developed by **Sai Chandu Gedela** 🚀
+Developed by **Chinthu Srilaxmi** 🚀
 
 Machine Learning Enthusiast
 
